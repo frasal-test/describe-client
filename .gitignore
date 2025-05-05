@@ -49,13 +49,12 @@ var/
 *.egg
 venv/
 
-# Temporary files
-temp/
-
 # Keys directory
 keys/
 
 # temp or bak files
+temp/
 *.bak
 *.tmp
 *.swp
+gitupdate.txt
